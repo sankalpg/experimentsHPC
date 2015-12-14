@@ -1,0 +1,9 @@
+tsFileExt: .pitchSilIntrpPP
+tonicExt: .tonicFine
+blackTimeExt: .taniSegKNN
+logFileExt: .dumpLogs_3s
+paramsDumpExt: .dumpParams_3s
+subSeqFileExt: .allPattData_3s
+subSeqInfoFileExt: .allPatt_3s
+searchListExt: .flist
+outFileExt: .1NN_3s

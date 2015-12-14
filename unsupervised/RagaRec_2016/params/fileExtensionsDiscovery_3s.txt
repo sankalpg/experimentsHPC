@@ -1,0 +1,6 @@
+tsFileExt: .pitchSilIntrpPP
+tonicExt: .tonicFine
+blackTimeExt: .taniSegKNN
+logFileExt: .disLogs_3s
+paramsDumpExt: .disParams_3s
+outFileExt: .disPatt_3s

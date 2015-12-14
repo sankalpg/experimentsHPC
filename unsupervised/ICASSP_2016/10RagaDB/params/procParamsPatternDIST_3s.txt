@@ -1,0 +1,20 @@
+durMotif: 3.0
+blackDurFact: 1.0
+sampleRate: 15
+binsPOct: 1200
+minPossiblePitch: 60
+varDur: 0.1
+threshold: 15.0
+flatThreshold: 0.8
+maxPauseDur: 0.1
+DTWBand: 0.1
+nInterpFac: 5
+rankRefDistType: -1
+removeTaniSegs: 1
+dumpLogs: 1
+maxNMotifsPairs: 25
+distType: 1
+DTWType: 0
+pitchHop: 0.014512
+normType: 1
+

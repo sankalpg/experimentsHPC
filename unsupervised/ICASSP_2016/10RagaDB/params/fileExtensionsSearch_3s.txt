@@ -1,0 +1,9 @@
+tsFileExt: .pitchSilIntrpPP
+tonicExt: .tonicFine
+blackTimeExt: .taniSegKNN
+logFileExt: .srhLogs_3s
+paramsDumpExt: .srhParams_3s
+outFileExt: .srhPatt_3s
+mappFileExt: .srhMap_3s
+searchListExt: .flist
+queryFileExt: .disPatt_3s

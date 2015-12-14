@@ -1,0 +1,13 @@
+tsFileExt: .pitchEssentiaIntp
+tonicExt: .tonic
+blackTimeExt: .taniSegKNN
+logFileExt: .searchLogs
+paramsDumpExt: .searchParams
+outFileExt: .motifSearch
+mappFileExt: .searchMap
+searchListExt: .flist
+queryFileExt: .anot
+outFileExt: .motifSearchVar2
+subSeqFileExt: .subSeqs
+subSeqTNFileExt: .subSeqsTN
+subSeqInfoFileExt: .subSeqsInfo

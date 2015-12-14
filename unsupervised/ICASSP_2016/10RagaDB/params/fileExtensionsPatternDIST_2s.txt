@@ -1,0 +1,7 @@
+tsFileExt: .pitchSilIntrpPP
+tonicExt: .tonicFine
+blackTimeExt: .blackPattern_2s
+outFileExt: .pattDistance_2s
+searchListExt: .flist
+subSeqFileExt: .allPattData_2s
+subSeqInfoFileExt: .allPatt_2s
